@@ -1,0 +1,11 @@
+com\dinesh\org\SocialInteractionManagementApp\service\WebsiteServiceImpl.class
+com\dinesh\org\SocialInteractionManagementApp\AppTest.class
+com\dinesh\org\SocialInteractionManagementApp\service\WebsiteService.class
+com\dinesh\org\SocialInteractionManagementApp\App.class
+com\dinesh\org\SocialInteractionManagementApp\model\Website.class
+com\dinesh\org\SocialInteractionManagementApp\dao\WebsiteDaoImpl.class
+com\dinesh\org\SocialInteractionManagementApp\model\ExportWebsite.class
+com\dinesh\org\SocialInteractionManagementApp\exception\DuplicateWebsiteException.class
+com\dinesh\org\SocialInteractionManagementApp\WebsiteServiceTest.class
+com\dinesh\org\SocialInteractionManagementApp\dao\WebsiteDao.class
+com\dinesh\org\SocialInteractionManagementApp\util\HibernateUtil.class

@@ -16,7 +16,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<hibernate.version>4.3.11.Final</hibernate.version>
 		<hsqldb.version>1.8.0.10</hsqldb.version>
-		<junit-version>4.12</junit-version>
+		<junit-version>4.13.1</junit-version>
 		<java.version>1.8</java.version>
 		<jaxb.version>2.2.11</jaxb.version>
 		<maven.test.skip>true</maven.test.skip>

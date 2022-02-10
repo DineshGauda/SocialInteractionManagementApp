@@ -14,7 +14,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<hibernate.version>4.3.11.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 		<hsqldb.version>1.8.0.10</hsqldb.version>
 		<junit-version>4.12</junit-version>
 		<java.version>1.8</java.version>
